@@ -1,1 +1,14 @@
 # Comp-Graphics-and-Visualization-
+How I Approach Designing Software
+Design Philosophy: When designing software, I focus on understanding the problem I'm trying to solve and defining clear goals for the user experience. My approach begins with thorough research, which helps me gather the necessary information and tools to create an effective design.
+New Design Skills: Through this project, I enhanced my ability to create realistic environments using lighting and textures. I also improved my understanding of how to create a modular design, ensuring that each component of the scene was reusable and adaptable to different contexts.
+Design Process: My design process for this project involved planning the layout and objects in the scene, selecting appropriate textures, and experimenting with different lighting techniques to achieve the desired visual effect. I iterated on this design by continually testing and refining the scene until it met my expectations.
+Future Applications: The tactics I used in this design, such as focusing on modularity and realism, can be applied to future work in both software design and development, particularly in fields like controls engineering where visualization is key.
+How I Approach Developing Programs
+Development Strategy: In developing programs, I prioritize writing clean, organized, and modular code. For this project, I created custom functions to handle repetitive tasks, such as setting up lighting or placing objects in the scene, which helped streamline the development process.
+New Strategies: I implemented an iterative approach, where I continuously tested the scene and made adjustments to improve the final product. This allowed me to catch errors early and refine my work step by step.
+Iterative Development: Iteration played a significant role in the development of this project. By revisiting and refining my code at each milestone, I was able to enhance the overall quality of the scene and ensure that each element functioned as intended.
+Evolving Approach: Throughout the milestones, my approach to developing code evolved to become more systematic and deliberate. I learned the value of breaking down complex tasks into manageable pieces and focusing on one element at a time before moving on to the next.
+How Computer Science Helps Me Reach My Goals
+Educational Pathway: Computational graphics and visualizations have provided me with new knowledge and skills that I can apply to my future studies. For example, understanding how to create realistic 3D environments is a valuable skill in any field that involves simulation or modeling.
+Professional Pathway: In a professional context, the skills I've gained from working on this project will be particularly useful in fields like controls engineering, where visual representations of systems can help in designing, troubleshooting, and communicating ideas.
